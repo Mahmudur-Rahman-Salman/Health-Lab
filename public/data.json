@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Name": "Medical checkup",
+    "img": "https://i.ibb.co/gRT3Y1Z/gallery-01.jpg",
+    "Description": " care and treatment provided by a licensed medical provider directed at preventing, diagnosing, treating, or correcting a medical problem."
+  },
+  {
+    "id": 2,
+    "Name": "Neurology",
+    "img": "https://i.ibb.co/KNMy04k/gallery-02.jpg",
+    "Description": "Neurologists in the Health Lab provide comprehensive consultation, evaluation and treatment for a variety of neurological disorders."
+  },
+  {
+    "id": 3,
+    "Name": "Dental Services and Treatment",
+    "img": "https://i.ibb.co/SmtZ5yc/gallery-06.jpg",
+    "Description": " Private Dentists, who see their own patients and also many of whom provide services for people with medical cards."
+  },
+  {
+    "id": 4,
+    "Name": "Mental Health Services",
+    "img": "https://i.ibb.co/cLmbgbC/gallery-05.jpg",
+    "Description": " Mental health problems can range from a low or sad period to a more serious depression, with a small number of people going on to experience severe mental health problems. "
+  },
+  {
+    "id": 5,
+    "Name": "Injury Units",
+    "img": "https://i.ibb.co/3MfW34Z/gallery-07.jpg",
+    "Description": "Injury Units are for the treatment of minor injuries that are unlikely to need admission to hospital."
+  },
+  {
+    "id": 6,
+    "Name": "National Cancer Control Programme",
+    "img": "https://i.ibb.co/tz7nS9T/gallery-08.jpg",
+    "Description": "The National Cancer Control Programme works with health service providers to prevent cancer, treat cancer, and increase survival and quality of life for those who develop cancer"
+  }
+]
